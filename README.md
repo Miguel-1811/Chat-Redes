@@ -88,15 +88,21 @@ Aplicacion-Redes
 - Terminal / Git Bash
 
 ### Compilar el proyecto
-
+### Tienes que abrir una terminal dentro de la caroeta donde tengas los jar del proyectoy escribir el siguiente comando
 ```Bash
-javac -d bin src/**/*.java
+java -jar chat.jar
 ```
 
 ### Iniciar el servidor
+### para servdiro TCP
 
-```Bash
-java -cp bin servidor.ServidorMain
+```Terminal
+java -jar server.jar
+```
+
+### para servidor UDP
+```Terminal
+java -jar udp.jar
 ```
 
 El servidor escuchara el puerto `5000` para (TCP) 
@@ -105,7 +111,7 @@ y `5001` para (UDP) por defecto.
 ### Conectar un cliente
 
 ```Bash
-java -cp bin cliente.ClienteMain
+java -jar chat.jar
 ```
 
 Se te pedira ingresar el nombre de usuario.

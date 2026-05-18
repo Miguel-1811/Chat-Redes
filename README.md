@@ -88,13 +88,13 @@ Aplicacion-Redes
 - Terminal / Git Bash
 
 ### Compilar el proyecto
-### Tienes que abrir una terminal dentro de la caroeta donde tengas los jar del proyectoy escribir el siguiente comando
+### Tienes que abrir una terminal dentro de la caroeta donde tengas los jar del proyecto, escribir el siguiente comando
 ```Bash
 java -jar chat.jar
 ```
 
 ### Iniciar el servidor
-### para servdiro TCP
+### para servidor TCP
 
 ```Terminal
 java -jar server.jar

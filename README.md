@@ -155,7 +155,7 @@ TIPO|ORIGEN|DESTINO|CONTENIDO
 | Tipo | Descripcion |
 |------|-------------|
 | `mensaje` | Mesnaje grupal |
-| `/Priv`   | Mensaje privado |
+| `/Priv <mensaje> <usuario>`   | Mensaje privado |
 | `List`    | Lista de ususarios |
 
 ---

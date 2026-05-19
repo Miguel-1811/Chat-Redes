@@ -78,6 +78,10 @@ Aplicacion-Redes
 └── TestLibraries
 ```
 
+## Diagrama de flujo del sistema 
+
+![Diagrama de flujo](https://github.com/Miguel-1811/Chat-Redes/blob/0f2c335935ba45d58309e75efba6ea7b8adb9090/Resources/Diagrama%20de%20flujo.webp)
+
 ---
 
 ## Como ejecutar

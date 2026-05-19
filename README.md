@@ -134,7 +134,7 @@ Se te pedira ingresar el nombre de usuario.
 ![Sevidor activo](https://github.com/Miguel-1811/Chat-Redes/blob/b2365491f7a1c6f16c1136c6ec6493c43781b603/Resources/servidor_activo.png)
 
 ### Registro de usuario
-![Registro de usuario](screenshots/registro_usuario.png)
+![Registro de usuario](https://github.com/Miguel-1811/Chat-Redes/blob/24ba499fcd08ac61a911ad4809a6ec5ebf5f7031/Resources/registro_usuario.png)
 
 ### Chat grupal
 ![Chat grupal](screenshots/chat_grupal.png)

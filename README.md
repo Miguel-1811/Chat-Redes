@@ -131,7 +131,7 @@ Se te pedira ingresar el nombre de usuario.
 ## Capturas de pantalla
 
 ### Servidor activo
-![Sevidor activo](screenshots/servidor_activo.png)
+![Sevidor activo](https://github.com/Miguel-1811/Chat-Redes/blob/b2365491f7a1c6f16c1136c6ec6493c43781b603/Resources/servidor_activo.png)
 
 ### Registro de usuario
 ![Registro de usuario](screenshots/registro_usuario.png)
